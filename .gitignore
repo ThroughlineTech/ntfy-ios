@@ -2,3 +2,16 @@
 GoogleService-Info.plist
 ntfy.xcodeproj/xcuserdata
 ntfy.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Throughline Build (managed by 'build setup')
+.build/config.toml
+.build/*.md
+.build/events/
+.build/sessions/
+.worktrees/
+secrets/
+.tmp/
+Thumbs.db
+.vs/
+.idea/
+*.swp
